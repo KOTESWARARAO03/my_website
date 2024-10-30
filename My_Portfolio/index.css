@@ -1,0 +1,87 @@
+.header_bg{
+    background-image: url(pictures/header_bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header_image{
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+}
+
+.wel_text{
+    margin-top: 5px;
+    margin-left: 10px;
+    font-family: "Abril Fatface", serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+.CONTACT_DET_bg{
+    background-color: white;
+    border: 2px;
+   border-style: solid;
+   height: 30vh;
+   width: 100vw;
+   
+    
+}
+.CONTACT_DET_img{
+    height:180px;
+    width:180px;
+    border-radius: 2px;
+}
+.CONTACT_DET_icon_bg{
+    height: 40px;
+    width: 40px;
+    background-color: grey;
+    padding-top: 10px;
+    padding-right: 8px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin: 10px;
+    border-radius: 50%;
+}
+.CONTACT_DET_icon{
+    color: black;
+    font-size: 25px;
+}
+
+.CONTACT_DET_icon_det{
+    font-size: 15px;
+    font-family: 'Lucida Sans';
+    padding-left:18px;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
+.fa {
+    padding: 20px;
+    font-size: 40px;
+    width: 60px;
+    text-decoration: none;
+    margin-left: 10px;
+    
+}
+.fa-instagram{
+    background:#d6249f;
+    color: white;
+    border-radius: 15px;
+    padding-left: 20px;
+    }
+.fa-github{
+    background:black;
+    color: white;
+    border-radius: 50%;
+}
+
+
+table,th,td{
+	border: 1px solid;
+	border-collapse: collapse;
+	padding: 10px;
+}
